@@ -1,6 +1,6 @@
 {
     "name": "ut-port-slack",
-    "version": "7.0.0",
+    "version": "7.1.0",
     "main": "index.js",
     "dependencies": {
         "readable-stream": "2.3.3",
