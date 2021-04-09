@@ -5,7 +5,7 @@
     "dependencies": {
         "readable-stream": "2.3.3",
         "request": "2.88.0",
-        "ut-port-webhook": "^7.0.0"
+        "ut-port-webhook": "^8.0.0"
     },
     "devDependencies": {
         "sort-keys": "2.0.0",
