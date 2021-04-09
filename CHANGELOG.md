@@ -1,3 +1,12 @@
+# [7.2.0](https://github.com/softwaregroup-bg/ut-port-slack/compare/v7.1.0...v7.2.0) (2021-04-09)
+
+
+### Features
+
+* use framework's joi ([ef25b8f](https://github.com/softwaregroup-bg/ut-port-slack/commit/ef25b8f7fc6951447fadc07c7c316a55117305ef))
+
+
+
 # 7.1.0 (2020-06-01)
 
 
