@@ -150,14 +150,14 @@ module.exports = function slack({utMethod}) {
                         }
                     });
                 },
-                [`${hook}.identity.request.receive`]: (msg, {params, headers}) => {
+                [`${hook}.identity.request.receive`]: (msg, {params}) => {
                     return {
                         clientId: params.clientId,
                         appId: params.appId,
                         platform: 'slack'
                     };
                 },
-                [`${hook}.identity.response.send`]: async(msg, {headers, payload}) => {
+                [`${hook}.identity.response.send`]: async(msg) => {
                     return msg;
                 },
                 [`${hook}.message.request.receive`]: (msg, $meta) => {
