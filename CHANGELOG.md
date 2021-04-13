@@ -1,3 +1,12 @@
+## [7.2.3](https://github.com/softwaregroup-bg/ut-port-slack/compare/v7.2.2...v7.2.3) (2021-04-13)
+
+
+### Bug Fixes
+
+* k8s port ([e75e87a](https://github.com/softwaregroup-bg/ut-port-slack/commit/e75e87ae39ad955497722419a70458c022c53d47))
+
+
+
 ## [7.2.2](https://github.com/softwaregroup-bg/ut-port-slack/compare/v7.2.1...v7.2.2) (2021-04-10)
 
 
