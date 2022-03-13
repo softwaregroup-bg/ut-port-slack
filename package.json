@@ -5,10 +5,10 @@
     "dependencies": {
         "readable-stream": "2.3.3",
         "request": "2.88.0",
-        "ut-port-webhook": "^8.1.1"
+        "ut-port-webhook": "^8.3.0"
     },
     "devDependencies": {
-        "tap": "^12.5.3",
+        "tap": "^16.0.0",
         "ut-tools": "^6.37.0"
     },
     "peerDependencies": {
