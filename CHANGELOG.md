@@ -1,3 +1,7 @@
+## [7.2.6](https://github.com/softwaregroup-bg/ut-port-slack/compare/v7.2.5...v7.2.6) (2022-03-13)
+
+
+
 ## [7.2.5](https://github.com/softwaregroup-bg/ut-port-slack/compare/v7.2.4...v7.2.5) (2021-07-03)
 
 
